@@ -9,6 +9,9 @@ public class Programm {
         System.out.println("Hellow");
         System.out.println("Hellow");
         System.out.println("Hellow");
+        3
+                3
+                        3
 
 
 
