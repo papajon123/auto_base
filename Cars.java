@@ -1,8 +1,27 @@
+import java.io.*;
+import java.util.*;
+
+
+
 /**
  * Created by Alex_one on 28.06.2016.
  */
 public class Cars {
-    public static void main(String[] args) {
 
-    }
+     /*String id;
+     String type;
+     String marka;
+     String range;
+     String color;
+
+
+    Cars(String id ,String type,String marka,String range,String color){
+        this.id=id;
+        this.type=type;
+        this.marka=marka;
+        this.range=range;
+        this.color=color;
+    }*/
+
+
 }
