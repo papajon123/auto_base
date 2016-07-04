@@ -15,7 +15,7 @@ public class Cars {
      String color;
 
 
-    Cars(String id ,String type,String marka,String range,String color){
+    Car(String id ,String type,String marka,String range,String color){
         this.id=id;
         this.type=type;
         this.marka=marka;
